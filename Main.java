@@ -25,7 +25,6 @@ public class Main {
         } while (!usuario.login(nomeDigitado, senhaDigitado));
 
         System.out.println("Acesso liberado!/n");
-        //parei aqui
 
 
         ArrayList<String> nomes = new ArrayList<>(); // lista
